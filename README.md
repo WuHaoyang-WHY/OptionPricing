@@ -1,5 +1,5 @@
 # OptionPricing
-A option pricing repo including American Option, European Option, spread, binary barrier.
+A option pricing repo including American Option, European Option, spread, binary and barrier.
 
 # Reference
 Options, Futures and Derivatives - John C.Hull
