@@ -164,7 +164,7 @@ class BarrierOption(BSmodel):
         self.y1 = self._y1()
 
     def _lambda(self):
-        lamb = (self.r + self.v ** 2 / 2) / self.v ** 2
+        lamb = (self.r - self.q + self.v ** 2 / 2) / self.v ** 2
 
         return lamb
 
